@@ -4,15 +4,15 @@
 
 ### Clearcast
 
-Codebases:
+**Codebases**:
 - Frontend: clearcast-dashboard
 - Backend: clearcast-service
 - Landing Page: clearcast-landing-page
 
-Database: Firestore
+**Database**: Firestore
 
-Authentication: Firebase Auth
+**Authentication**: Firebase Auth
 
-Third party APIs: 
+**Third party APIs**: 
 - Quickbooks
 - Stripe
